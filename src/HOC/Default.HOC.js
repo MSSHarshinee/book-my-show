@@ -11,6 +11,7 @@ import DefaultLayout from "../Layouts/Default.layout";
 const DefaultHOC = ({ component: Component ,  ...rest })=> {
     // components
     // props => path exact
+    
     return (
         <>
         <Route
